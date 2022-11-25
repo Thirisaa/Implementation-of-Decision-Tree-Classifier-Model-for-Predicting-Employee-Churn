@@ -50,7 +50,7 @@ dt.predict([[0.5,0.8,9,260,6,0,1,2]])
 ![head](op1.png)
 ![info](op2.png)
 ![isnull](op3.png)
-![value](op66.png)
+![value](op_66.png)
 ![x_head](op4.png)
 ![accuracy](op6.png)
 
